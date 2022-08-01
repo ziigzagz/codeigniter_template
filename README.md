@@ -10,3 +10,7 @@
 		- buttons-html5
 - font
  
+ 
+ 1. cd codeigniter
+ 2. npm install
+ 
